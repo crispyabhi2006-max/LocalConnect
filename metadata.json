@@ -1,0 +1,6 @@
+{
+  "name": "LocalConnect",
+  "description": "Local business discovery and appointment booking platform connecting customers with neighborhood service providers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
